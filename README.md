@@ -15,4 +15,6 @@ Hey there! 👋 I'm a Data Science grad student passionate about real-time graph
 ---
 [![](https://visitcount.itsvg.in/api?id=PrxncE-LixH&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=PrxncE-LixH)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
