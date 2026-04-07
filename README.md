@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm a Data Science grad student passionate about real-time graphics and the bleeding edge of AI-driven rendering. 
+Hey there! 👋 I'm a Data Science grad student passionate about real-time graphics and the bleeding edge of AI-driven rendering.<br>
 Right now I'm building a real-time denoiser for ray traced images in OpenGL.<br>I'm fascinated by how AI is reshaping real-time graphics pipelines, and I'm itching to contribute to projects like OptiScaler when life finally hands me a spare afternoon.
 
 
